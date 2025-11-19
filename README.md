@@ -87,6 +87,5 @@ If you find this work useful, please cite our paper:
   author={Yi, Xin and Li, Yue and Shi, Dongsheng and Wang, Linlin and Wang, Xiaoling and He, Liang},
   journal={arXiv preprint arXiv:2511.14423},
   year={2025}
-
 }
 
