@@ -4,7 +4,7 @@
 <div align="center">
   <h1 style="margin: 0 auto; text-align: center;">
     Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education
-    <a href="https://arxiv.org/abs/2305.17805" style="margin-left: 10px; font-size: 0.8em;">[Arxiv]</a>
+    <a href="https://arxiv.org/abs/2511.14423" style="margin-left: 10px; font-size: 0.8em;">[Arxiv]</a>
   </h1>
 </div>
 
@@ -80,10 +80,13 @@ Separately](https://github.com/CHATS-lab/Llms_Encode_Harmfulness_Refusal_Separat
 
 ## Citation
 
-<!-- If you find this work useful, please cite our paper:
+If you find this work useful, please cite our paper:
 ```bibtex
-@inproceedings{xinykou2023unified,
+@article{yi2025unified,
   title={Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education},
-  booktitle={arXiv preprint arXiv:2305.17805},
+  author={Yi, Xin and Li, Yue and Shi, Dongsheng and Wang, Linlin and Wang, Xiaoling and He, Liang},
+  journal={arXiv preprint arXiv:2511.14423},
   year={2025}
-} -->
+
+}
+
